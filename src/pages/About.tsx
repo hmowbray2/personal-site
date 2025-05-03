@@ -1,11 +1,9 @@
 import { Page } from "../components/Page";
 
-export const Home = () => {
+export const About = () => {
   return (
     <>
-      <Page>
-        <h1>Home!</h1>
-      </Page>
+      <Page>About page</Page>
     </>
   );
 };
